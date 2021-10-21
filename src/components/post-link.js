@@ -19,7 +19,6 @@ export default function PostLink({ post }) {
                 <div className="post-link-text">
                     <h2>{title}</h2>
                     <p className="post-link-body">{description}</p>
-                    <p className="post-link-date">{updatedAt}</p>
                 </div>
             </div>
         </Link>

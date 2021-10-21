@@ -8,7 +8,7 @@ import SEO from "../components/seo"
 export default function Home({ data }) {
   return (
     <Layout>
-      <SEO title="Dev Blog" description="Gatsbyを使って作ったサイトです" />
+      <SEO title="Toyuu" description="My Portfolio Site" />
       <Hero />
       {data.allContentfulPost.edges.map(edge =>
         <PostLink key={edge.node.slug} post={edge.node} />

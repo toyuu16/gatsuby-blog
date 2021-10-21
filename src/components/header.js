@@ -1,9 +1,9 @@
-import React from 'react';
-import { Link } from "gatsby";
+import React from "react"
+import { Link } from "gatsby"
 import LOGO_IMG from "../../static/logo.jpg"
 import "../styles/header.css"
 
-export default function Header(){
+export default function Header() {
     return (
         <header>
             <Link to="/">

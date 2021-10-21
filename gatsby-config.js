@@ -10,8 +10,8 @@
 
 module.exports = {
   siteMetadata: {
-    title: "Dev Blog",
-    description: "Gatsbyで作成したブログサイトです。",
+    title: "toyuu",
+    description: "PORTFOLIO OF SITE",
     author: "Engineer X"
   },
   plugins: [

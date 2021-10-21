@@ -5,14 +5,13 @@ export default function Hero(){
     return (
         <div className="hero">
             <h1 className="hero-text">
-                Welcome to my blog!<br />
-                Enjoy lots of posts.<br />
+                Toyuu
             </h1>
             <div className="hero-author">
-                <img src="https://adorable.io/avatars/image.png" className="hero-author-image" alt="avatar"></img>
                 <p className="hero-author-text">
-                    Written by XXXX.<br />
-                    Front Engineer at Hoge.Inc. Love JavaScript.
+                    PORTFOLIO OF YUSUKE TANAKA<br />
+                    FRONT-END DEVELOPMENT<br />
+                    THIS SITE GATSUBY ^^<br />
                 </p>
             </div>
         </div>

@@ -1,5 +1,9 @@
+body {
+  font: 16px Verdana, Helvetica, Arial, sans-serif;
+}
 .layout {
     margin: 0 auto;
     max-width: 960px;
     padding: 0 1.1rem 1.45rem;
   }
+  
